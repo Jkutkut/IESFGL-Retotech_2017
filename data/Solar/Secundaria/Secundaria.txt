@@ -1,0 +1,12 @@
+<!SOLAR>
+
+<!Secundaria>
+
+<string name="2~Solar~01">&quot;2~¿Donde se ponen placas solares?~a.En rios y oceanos~b.En lugares espaciosos~c.En sitios con muchos arboles~d.En playas~e.null~2&quot;</string>
+<string name="2~Solar~02">&quot;2~¿Pueden funcionar los paneles en dias nublados?~a.Si, en verano mas, y en invierno menos~b.No funcionan nada~c.Depende de los que lleven almacenado~d.Si, siempre~e.null~1&quot;</string>
+<string name="2~Solar~03">&quot;2~¿Que aplicaciones tiene la energia solar fotovoltaica?~a.Electrificacion de viviendas y calentamiento del agua.~b.Iluminacion de carreteras y calentamiento del agua.~c.Electrificacion de viviendas e iluminacion de carreteras.~d.Sistemas de bombeo y calentamiento del agua.~e.null~3&quot;</string>
+<string name="2~Solar~04">&quot;2~La diferencia entre la energía solar térmica y la fotovoltaica es…~a.Producir agua caliente (termica) y producir electricidad (fotovoltaica).~b.Producir agua caliente (termica) y calefaccion (fotovoltaica).~c.Producir agua caliente (fotovoltaica) y producir electricidad (termica).~d.Ninguna de las anteriores.~e.null~1&quot;</string>
+<string name="2~Solar~05">&quot;2~¿Cual es la energia más desarrollada?~a.Energia Solar tecnica.~b.Energia Solar pasiva.~c.Energia Solar fotovoltaica.~d.Energia Solar activa.~e.null~3&quot;</string>
+<string name="2~Solar~06">&quot;2~¿Cuando empezo el desarrollo de la energia Solar?~a.1790 ~b.1900~c.1860~d.1820~e.null~3&quot;</string>
+<string name="2~Solar~07">&quot;2~¿Qué pais es el lider mundial en CSP (energia termo solar de concentracion)?~a.China~b.Alemania~c.España~d.Francia ~e.null~3&quot;</string>
+<string name="2~Solar~08">&quot;2~¿Donde esta localizada la central de energia termo solar de concentracion con mayor extension del mundo?~a.España~b.Marruecos~c.Australia~d.Estados Unidos~e.null~4&quot;</string>
