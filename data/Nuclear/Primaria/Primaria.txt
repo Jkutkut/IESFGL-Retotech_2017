@@ -1,0 +1,12 @@
+<!NUCLEAR>
+
+<!Primaria>
+
+<string name="1~Nuclear~01">&quot;1~¿Qué fuente utiliza una central nuclear?~a.El calor~b.El viento~c.El frío~d.null~e.null~1&quot;</string>
+<string name="1~Nuclear~02">&quot;1~¿Cuál de estas sí es una parte de una central nuclear?~a.Fuselaje~b.Alternador~c.Condensador~d.null~e.null~3&quot;</string>
+<string name="1~Nuclear~03">&quot;1~¿Qué tipo de combustible se usa en una central nuclear?~a.Combustibles renovables~b.Combustibles nucleares~c.Combustibles fósiles~d.null~e.null~2&quot;</string>
+<string name="1~Nuclear~04">&quot;1~Según su uso en cada país las fuentes de energía se clasifican en:~a.Primarias y secundarias~b.Convencionales y no convencionales~c.Renovable y no renovable~d.null~e.null~3&quot;</string>
+<string name="1~Nuclear~05">&quot;1~¿Qué tipo de energía es la nuclear?~a.Renovable~b.Escrupulosa~c.No renovable~d.null~e.null~3&quot;</string>
+<string name="1~Nuclear~06">&quot;1~¿Dónde trabaja Homer Simpson?~a.Central nuclear~b.Burger king~c.Cervecería~d.null~e.null~1&quot;</string>
+<string name="1~Nuclear~07">&quot;1~La energía nuclear es la fuerza más…~a.conocida~b.usada~c.potente~d.null~e.null~3&quot;</string>
+<string name="1~Nuclear~08">&quot;1~¿Cómo utilizamos la energía nuclear?~a.Para bañarnos~b.Como las demás~c.Para volar y ser un pez~d.null~e.null~2&quot;</string>
