@@ -1,6 +1,6 @@
 # IESFGL-Retotech_2017:
 
-Preguntas usadas para el proyecto **Learning about energy** desarrollado para el concurso *Retotech 2017* por el instituto IES Federico García Lorca.
+Preguntas usadas para el proyecto **Learning about energy** desarrollado para el concurso *Retotech 2017* por el instituto *IES Federico García Lorca*.
 
 Contenido del repositorio:
 - Instrucciones para crear las preguntas: [link](./InstruccionesCreacionDDBB.md)
