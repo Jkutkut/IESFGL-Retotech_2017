@@ -1,0 +1,13 @@
+<!SOLAR>
+
+<!Primaria>
+
+<string name="1~Solar~01">&quot;1~¿Qué se utiliza para obtener energia solar?~a.Aerogeneradores~b.Placas~c.Centrales hidraulicas~d.null~e.null~2&quot;</string>
+<string name="1~Solar~02">&quot;1~¿Cuáles son las ventajas de la energia solar?~a.Es renovable. Proteger el medio ambiente.~b.No es renovable~c.Es muy barata~d.null~e.null~1&quot;</string>
+<string name="1~Solar~03">&quot;1~¿De donde se obtiene la energia solar?~a.Radiacion solar.~b.Temperatura del Sol.~c.Luz Solar.~d.null~e.null~1&quot;</string>
+<string name="1~Solar~04">&quot;1~¿Como se obtiene la energia solar?~a.Placas solares.~b.Receptores de luz.~c.Termo receptor.~d.null~e.null~1&quot;</string>
+<string name="1~Solar~05">&quot;1~La energia solar es...~a.Renovable~b.No renovable~c.Caliente~d.null~e.null~1&quot;</string>
+<string name="1~Solar~06">&quot;1~¿Como se puede utilizar la energia solar?~a.Para producir energia termica y electrica.~b.Para producir energia eolica e hidraulica.~c.Para producir energia hidraulica y termica.~d.null~e.null~1&quot;</string>
+<string name="1~Solar~07">&quot;1~¿Cuáles son las principales aplicaciones de la energía solar?~a.Ponerse moreno~b.Producir agua caliente y dar apoyo a sistemas de calefaccion para viviendas.~c.Para ahorrar más dinero~d.null~e.null~2&quot;</string>
+<string name="1~Solar~08">&quot;1~¿Tener energia solar es costoso?~a.Es muy costosa~b.Es muy barata, cualquiera puede instalar una placa en su casa.~c.Solo al principio, a medida que vayan avanzado las investigaciones sera mas accesible.~d.null~e.null~3&quot;</string>
+<string name="1~Solar~09">&quot;1~¿Cuál es el beneficio ambiental de la energía solar?~a.Evitar producir la contaminacion.~b.Hacer que el cielo sea mas azul.~c.Reducir la lluvia~d.null~e.null~1&quot;</string>
