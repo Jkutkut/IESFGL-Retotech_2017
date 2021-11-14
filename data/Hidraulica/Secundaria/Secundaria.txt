@@ -1,0 +1,12 @@
+<!HIDRAULICA>
+
+<!Secundaria>
+
+<string name="2~Hidraulica~01">&quot;2~¿Para qué se utiliza la energia hidraulica?~a.Para generar energia solar.~b.Para generar energia termica.~c.Para generar energia electrica.~d.Para generar energia acuatica.~e.null~3&quot;</string>
+<string name="2~Hidraulica~02">&quot;2~¿Cual es el elemento fundamental de una central hidraulica?~a.Los destructores de energia.~b.Las turbinas.~c.Los dientes de cemento.~d.La presa.~e.null~2&quot;</string>
+<string name="2~Hidraulica~03">&quot;2~¿Donde se encuentran?~a.En rios.~b.En mares.~c.En lagos.~d.En lagunas.~e.null~1&quot;</string>
+<string name="2~Hidraulica~04">&quot;2~¿Cuando se empezo a utilizar la energia hidraulica?~a.En el siglo XIX~b.Hace 69 años~c.En el siglo XX~d.Hace 97 años~e.null~1&quot;</string>
+<string name="2~Hidraulica~05">&quot;2~¿Que dos tipos de centrales hidroelectricas hay?~a.centrales de tamaño grande y de tamaño pequeño~b.centrales desarrolladas y subdesarrolladas~c.centrales tradicionales y de bombeo~d.centrales moviles e inmoviles~e.null~3&quot;</string>
+<string name="2~Hidraulica~06">&quot;2~¿Cuales de estos objetos pertenecen a las partes de una central hidroelectrica?~a.presa, turbina y sofa~b.presa, turbina y tuberia forzada~c.presa, turbina y redes filtradoras ~d. presa, torre y placa base~e.null~2&quot;</string>
+<string name="2~Hidraulica~07">&quot;2~Uno de los usos más frecuentes de la energia hidraulica, es la obtencion de electricidad a traves de las mareas. ¿Como se le denomina a esa energia?~a.energia mareomotretica ~b.energia mareomotriz ~c.energia maritima~d.null~e.null~2&quot;</string>
+<string name="2~Hidraulica~08">&quot;2~¿Que tipo de energia hacen uso las presas de marea?~a.energia potencial~b.energia cinetica ~c.energia estatica~d.&~e.null~1&quot;</string>
