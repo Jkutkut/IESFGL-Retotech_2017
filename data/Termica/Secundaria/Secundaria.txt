@@ -1,0 +1,14 @@
+<!TERMICA>
+
+<!Secundaria>
+
+<string name="2~Termica~01">&quot;2~¿Cuáles de las siguientes afirmaciones son correctas?~a.Cuando juntamos patatas fritas calientes con helado éste se derrite.~b.Cuando juntamos patatas fritas calientes con helado las patatas se enfrían~c.Cuando juntamos patatas fritas calientes con helado llegan a una temperatura de equilibrio~d.Cuando juntamos patatas fritas calientes con helado solo las patatas fritas llegan a una temperatura de equilibrio~e.null~3&quot;</string>
+<string name="2~Termica~02">&quot;2~La energía térmica se mide en :~a.Cd (Candela)~b.Omnios~c.Julios~d.Todas las anteriores~e.null~3&quot;</string>
+<string name="2~Termica~03">&quot;2~¿Cuál de las siguientes NO es un mecanismo de transferencia de energía térmica?~a.Radiación~b.Conducción~c.Aire~d.Convención~e.null~3&quot;</string>
+<string name="2~Termica~04">&quot;2~¿Cómo se conoce también a la energía térmica?~a.Energía hidráulica~b.Energía eólica~c.Energía calórica o calorífica~d.Energía calefactora~e.null~3&quot;</string>
+<string name="2~Termica~05">&quot;2~Las centrales térmicas queman:~a.carbón,gas natural~b.carbón~c.gas natural,fuel, carbón~d.null~e.null~3&quot;</string>
+<string name="2~Termica~06">&quot;2~¿Cual de estas frases en un inconveniente para la central térmica?~a.Producen mucha energía.~b.Uso de combustibles fósiles( no renovables).~c.Las cenizas producidas durante la combustión pueden usarse en la construcción.~d.null~e.null~2&quot;</string>
+<string name="2~Termica~07">&quot;2~En una Central Térmica, ¿quién es el encargado de producir la electricidad?~a.condensador~b.turbinas~c.generador~d.null~e.null~2&quot;</string>
+<string name="2~Termica~08">&quot;2~¿Para qué usamos agua en la central térmica?~a.Para darme una ducha~b.Para beber agua~c.Para usarla en la torre de refrigeración~d.null~e.null~3&quot;</string>
+<string name="2~Termica~09">&quot;2~¿Para qué se usa la chimenea en una central térmica?~a.Para calentarnos~b.Para liberar calor y humo~c.Para decorar~d.null~e.null~2&quot;</string>
+<string name="2~Termica~10">&quot;2~¿Cómo se llama el motor?~a.Motor~b.Turbina~c.Pulverizador~d.null~e.null~2&quot;</string>
