@@ -1,0 +1,17 @@
+<!EOLICA>
+
+<!Adultos>
+
+<string name="3~Eolica~01">&quot;3~¿Por qué necesitamos una red eléctrica Europea?~a.Para aprovechar la energía y estar mejor interconectado.~b.Para airear las zonas cálidas~c.Para dejar de contaminar las grandes ciudades~d.Para consumir menos electricidad~e.Para ahorrar más dinero~1&quot;</string>
+<string name="3~Eolica~02">&quot;3~La energía potencial y la energía cinética son tipos de:~a.Energía eléctrica~b.Energía magnética~c.Energía térmica~d.Energía mecánica~e.Energía eólica~4&quot;</string>
+<string name="3~Eolica~03">&quot;3~¿Cuáles de las siguientes es una conversión de energía química a energía térmica?~a.El carbón se quema en una planta de energía~b.El carbón vegetal se queman en un pozo de barbacoa~c.La gasolina se quema en el motor de un automovil~d.Todas las anteriores son correctas~e.Ninguna de las anteriores~4&quot;</string>
+<string name="3~Eolica~04">&quot;3~¿Cuál de éstas no es una parte de un aerogenerador?~a.Palas~b.Góndola~c.Ensamblaje de puntal~d.Veleta~e.null~3&quot;</string>
+<string name="3~Eolica~05">&quot;3~¿Cuál es el número ideal de palas?~a.Monopala~b.Bipala~c.Tripala~d.Más de cuatro palas~e.null~3&quot;</string>
+<string name="3~Eolica~06">&quot;3~¿Cuántas  turbinas eólicas se necesitarían para iluminar la ciudad de Nueva York?~a.6 turbinas de 6.000 megavatios~b.5 turbinas de 3.600 megavatios~c.5 turbinas de 4.000 megavatios~d.null~e.null~3&quot;</string>
+<string name="3~Eolica~07">&quot;3~¿Cuándo y dónde se construyó la primera turbina?~a.1887 en Cleveland~b.1953 en USA~c.1913 en Canadá~d.1873 en Luxwnburgo~e.null~1&quot;</string>
+<string name="3~Eolica~08">&quot;3~¿Cuál es el primer país en potencia instalada por número de habitantes?~a.EEUU~b.Rusia~c.Dinamarca~d.Noruega~e.España~3&quot;</string>
+<string name="3~Eolica~09">&quot;3~¿Cuál de los siguientes es un inconveniente de la energía eólica?~a.Produce gases tóxicos~b.Produce contaminación acústica~c.Es de las más caras~d.No está avanzada~e.Produce contaminación lumínica~2&quot;</string>
+<string name="3~Eolica~10">&quot;3~La torre del aerogenerador soporta~a.Rotor~b.Palas~c.Generador~d.Multiplicador~e.null~1&quot;</string>
+<string name="3~Eolica~11">&quot;3~¿Qué parte del aerogenerador cuenta en su exterior con una veleta o con un anemómetro?~a.Controlador~b.Aerogenerador~c.Góndola~d.Torre~e.null~3&quot;</string>
+<string name="3~Eolica~12">&quot;3~El nombre eólico proviene del dios Eolo, ¿de qué cultura es?~a.Romana~b.Griega~c.Musulmana~d.Persa~e.null~2&quot;</string>
+<string name="3~Eolica~13">&quot;3~¿Quién realizó las primeras investigaciones para utilizar la energía eólica como productor de electricidad?~a.Pedro Picapiedra~b.Paul La Cour~c.Johannes Jull~d.Charles F.Brush~e.null~4&quot;</string>
