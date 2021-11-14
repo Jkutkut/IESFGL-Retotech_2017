@@ -1,0 +1,15 @@
+<!NUCLEAR>
+
+<!Secundaria>
+
+<string name="2~Nuclear~01">&quot;2~¿Qué es la fusión nuclear?~a.Reacción en la que varios núcleos ligeros se unen para provocar electricidad~b.Reacción en la que dos núcleos pesados se rompen en dos más ligeros~c.Reacción en la que dos nucleos se unen para formar dos más pesados~d.Reacción química en la que varios núcleos (ligeros y pesados) se rompen~e.null~3&quot;</string>	
+<string name="2~Nuclear~02">&quot;2~¿Qué combustible nuclear utilizan los reactores nucleares?~a.Uranio~b.Magnesio~c.Propano~d.Plutonio~e.null~1&quot;</string>
+<string name="2~Nuclear~03">&quot;2~¿Cuál de estas afirmaciones sobre la energía nuclear es incorrecta?~a.Es una energía limpia~b.No genera CO2~c.Frena el cambio climático~d.Utiliza combustibles fósiles~e.null~4&quot;</string>
+<string name="2~Nuclear~04">&quot;2~¿De dónde proviene la mayor parte de las energías renovables?~a.Interior de la tierra~b.Sol~c.Atmósfera~d.Mar~e.null~2&quot;</string>
+<string name="2~Nuclear~05">&quot;2~La energía nuclear es:~a.No renovable, primaria y convencional~b.Renovable, secundaria y contaminante~c.No renovable, primaria y contaminante~d.Renovable, primaria y convencional~e.null~1&quot;</string>
+<string name="2~Nuclear~06">&quot;2~¿Por qué hacen qué agua fría pase por conductos hasta el contenedor donde ocurren las reaccions químicas?~a.Porque el agua lleva elementos químicos que estabilizan las reacciones químicas~b.Para que no exploten por el sobrecalentamiento~c.Porque les sirve para ducharse más tarde~d.Para que el agua llegue a nuestras casas y dé energía a nuestras casas~e.null~2&quot;</string>
+<string name="2~Nuclear~07">&quot;2~¿Qué pasó en Chernobyl?~a.Accidente nuclear~b.Atentado~c.Un experimento~d.Un nuevo récord~e.null~1&quot;</string>
+<string name="2~Nuclear~08">&quot;2~¿Cuál es una desventaja de la energía nuclear?~a.Fuentes más baratas de producción de electricidad~b.No emite gases que contaminan la atmósfera~c.No se ahorra tanto en combustibles fósiles~d.Genera una gran cantidad eléctrica~e.null~3&quot;</string>
+<string name="2~Nuclear~09">&quot;2~¿Qué es la energía nuclear?~a.Se obtiene aprovechando las mareas~b.Es la energía en el núcleo atómico~c.Es una energía obtenida a partir del viento~d.Energía procedente del sol~e.null~2&quot;</string>
+<string name="2~Nuclear~10">&quot;2~¿Por qué no favorece el cambio climático las centrales nucleares?~a.Por las ranas~b.Porque no emite CO2~c.Porque su humo no es contaminante~d.Porque utilizan la energía eólica~e.null~2&quot;</string>
+<string name="2~Nuclear~11">&quot;2~¿Cómo se llaman las centrales térmicas que utilizan fisión de uranio para producir electricidad?~a.Central acústica~b.Central solar~c.Central nuclear~d.Central térmica~e.null~3&quot;</string>
